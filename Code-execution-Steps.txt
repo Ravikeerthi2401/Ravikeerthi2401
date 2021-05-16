@@ -1,0 +1,9 @@
+Step 1: Initially store the datasets i.e. listings and reviews csv file in work directory 
+
+Step 2: Execute Data-preprocessing-airbnb.py script file for cleaning the Listings in airbnb data file.
+
+Step 3: Execute Sentiment-review-scores.py for extacting the sentiment scores for reviews.csv file.
+
+Step 4: After that execute the both cases i.e. Case1-method.py and Case2-method.py for finding the impact of guest reviews over rating prediction. 
+
+Step 5: The final results of LightGBM algorithm is shown in the outputs of both the cases.
